@@ -1,7 +1,7 @@
 site:
   name: Kamal Dhingra
   site: 'https://kamaldhingra1.github.io'
-  base: '/my-blog/'
+  base: '/my-blog'
   trailingSlash: false
 
   googleSiteVerificationId: false
